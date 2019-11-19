@@ -8,7 +8,7 @@ application des patrons de conceptions sur de petits exemples, des diagrammes de
   2- Stratégie :Le patron de concéption stratégie repond à "Comment facilement définir une famille d'algorithmes et les rendre
      interchangeable entre eux ?". dans cette exemple nous avons plusieurs pouvoir. un super hero de la classe "SuperHero" utilise un          pouvoir (qui représente une strategie) grace à l'interface "StrategiePouvoir" qui est implementé par differents pouvoirs. un super        hero peut executer son pouvoir à l'aide de la méthode executePouvoir ou changer de pouvoir grace à la méthode setPouvoir.
      
-  3- Fabrication : 
+
      
   
 
